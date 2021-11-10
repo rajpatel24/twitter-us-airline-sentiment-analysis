@@ -1,6 +1,6 @@
 # Twitter US Airline Sentiment Analysis
 
-***
+
 
 The purpose of this project is to demonstrate the sentiment analysis for twitter us airline dataset. 
 
